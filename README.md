@@ -1,6 +1,6 @@
-# GeoSeeker Legal
+# Bishop's Gambit Legal
 
-Public home of the GeoSeeker Terms of Service, Privacy Policy, and account-deletion instructions, served via GitHub Pages.
+Public home of the Bishop's Gambit Terms of Service, Privacy Policy, and account-deletion instructions, served via GitHub Pages.
 
 ## Live URLs
 
@@ -10,6 +10,6 @@ Public home of the GeoSeeker Terms of Service, Privacy Policy, and account-delet
 
 ## Updating the documents
 
-Edit the markdown, commit, and push to `main`. GitHub Pages rebuilds automatically in about a minute. No app release is required — the GeoSeeker mobile app links out to these hosted URLs.
+Edit the markdown, commit, and push to `main`. GitHub Pages rebuilds automatically in about a minute. No app release is required — the Bishop's Gambit mobile app links out to these hosted URLs.
 
 The canonical drafts live in the app repo under `store-listing/`; keep the two in sync when either changes.

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: GeoSeeker Legal
+title: Bishop's Gambit Legal
 ---
 
-# GeoSeeker Legal
+# Bishop's Gambit Legal
 
-GeoSeeker is a daily travel hide-and-seek game. These documents describe how we operate and how we handle your data.
+Bishop's Gambit is a daily travel hide-and-seek game. These documents describe how we operate and how we handle your data.
 
 - [Terms of Service](./terms/)
 - [Privacy Policy](./privacy/)
