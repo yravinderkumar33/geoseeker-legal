@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bishop's Gambit Legal
+title: Bishop: World Hunt Legal
 ---
 
-# Bishop's Gambit Legal
+# Bishop: World Hunt Legal
 
-Bishop's Gambit is a daily travel hide-and-seek game. These documents describe how we operate and how we handle your data.
+Bishop: World Hunt is a daily travel hide-and-seek game. These documents describe how we operate and how we handle your data.
 
 - [Terms of Service](./terms/)
 - [Privacy Policy](./privacy/)

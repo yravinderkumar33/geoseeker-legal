@@ -4,11 +4,11 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Bishop's Gambit Privacy Policy
+# Bishop: World Hunt Privacy Policy
 
 _Last updated: 27 July 2026_
 
-Bishop's Gambit is a daily travel hide-and-seek game. This policy explains what data the app handles and why. The short version: your game lives on your device; an account and analytics are optional, and nothing is sold or shared with advertisers.
+Bishop: World Hunt is a daily travel hide-and-seek game. This policy explains what data the app handles and why. The short version: your game lives on your device; an account and analytics are optional, and nothing is sold or shared with advertisers.
 
 ## Data stored on your device
 
@@ -22,7 +22,7 @@ If you choose to sign in (Google, Apple, or email one-time code), we store with 
 - Your chosen username (shown on results you choose to share).
 - A backup of your game progress (completed hunts, wishlist, streak), so it can be restored on a new device.
 
-We do not access your contacts, photos, or precise device location. The game's map interactions are game guesses, not your location — Bishop's Gambit never requests device location permissions.
+We do not access your contacts, photos, or precise device location. The game's map interactions are game guesses, not your location — Bishop: World Hunt never requests device location permissions.
 
 ## Analytics (optional, anonymous)
 
@@ -48,7 +48,7 @@ If you cannot reach the in-app flow (for example, you can no longer sign in), em
 
 ## Children
 
-Bishop's Gambit is suitable for general audiences and does not knowingly collect personal data from children.
+Bishop: World Hunt is suitable for general audiences and does not knowingly collect personal data from children.
 
 ## Contact
 
